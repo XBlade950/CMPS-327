@@ -1,0 +1,55 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Assignment 1\Assignment1 build\Assignment1_ajl9075_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2a98 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.343815 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.103330 ms (FindLiveObjects: 0.016756 ms CreateObjectMapping: 0.008688 ms MarkObjects: 0.072610 ms  DeleteObjects: 0.004964 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.281444 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.094332 ms (FindLiveObjects: 0.008688 ms CreateObjectMapping: 0.008688 ms MarkObjects: 0.072300 ms  DeleteObjects: 0.004344 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.279272 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 0.090918 ms (FindLiveObjects: 0.008378 ms CreateObjectMapping: 0.008378 ms MarkObjects: 0.068887 ms  DeleteObjects: 0.004344 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.380741 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 205.
+Total: 0.094332 ms (FindLiveObjects: 0.008688 ms CreateObjectMapping: 0.007757 ms MarkObjects: 0.066404 ms  DeleteObjects: 0.011170 ms)
+
